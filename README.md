@@ -83,6 +83,7 @@ Este proyecto fue desarrollado con dedicación por:
  - [MahdiDev](https://github.com/mahdi20121980)
  - [Rickmij](https://github.com/Rickmij)
  - [Alejosor](https://github.com/Alejosor)
+ - [Javi](https://github.com/xj4v1x)
  
 ¡Si este repositorio te resulta útil, no dudes en darle una estrella! 🌟
 
