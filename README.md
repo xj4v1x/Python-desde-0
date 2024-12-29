@@ -81,6 +81,7 @@ Para aprovechar al máximo este repositorio, necesitas:
 ## 💪 Autores
 Este proyecto fue desarrollado con dedicación por:
  - [MahdiDev](https://github.com/mahdi20121980)
+ - [Rickmij](https://github.com/Rickmij)
  - [Alejosor](https://github.com/Alejosor)
  
 ¡Si este repositorio te resulta útil, no dudes en darle una estrella! 🌟
