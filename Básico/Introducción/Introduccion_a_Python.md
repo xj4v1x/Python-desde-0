@@ -36,6 +36,7 @@ Te recomendamos usar [Visual Studio Code](https://code.visualstudio.com/) o cual
 # Este es tu primer programa en Python
 print("¡Hola, Mundo!")
 ```
+El # es un comentario. Es útil para hacer entender de qué trata nuestro código.
 
 ### Ejecución:
 1. Guarda el código en un archivo llamado `hola_mundo.py`.
