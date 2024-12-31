@@ -27,26 +27,15 @@ python --version
 ```
 Deberías ver la versión instalada de Python.
 
-### Paso 4: Configurar un editor de código
-Te recomendamos usar [Visual Studio Code](https://code.visualstudio.com/) o cualquier editor de tu preferencia.
+### Paso 4: Instalar un editor de código
+Te recomendamos usar [Visual Studio Code](https://code.visualstudio.com/) o cualquier editor de tu preferencia. Es muy fácil de descargarlo pero si quieres un IDE online te recomendamos usar Visual Estudio Code online: (https://vscode.dev)
 
-## Tu primer programa en Python: `Hola, Mundo`
-### Código:
-```python
-# Este es tu primer programa en Python
-print("¡Hola, Mundo!")
-```
-El # es un comentario. Es útil para hacer entender de qué trata nuestro código.
+### Configurar el IDE
+Si no gusta la personalización de Visual Studio Code y quieres hacer algunos cambios de color, de fondo y cambiar los iconos puedes ir a la parte de extensiones y descargar las que más te gusten.
 
-### Ejecución:
-1. Guarda el código en un archivo llamado `hola_mundo.py`.
-2. Abre la terminal y navega a la ubicación del archivo.
-3. Ejecuta el archivo con:
-   ```bash
-   python hola_mundo.py
-   ```
-
-El resultado será:
-```
-¡Hola, Mundo!
-```
+ Aquí tienes algunas extrnsiones muy conocidas:
+- FluentIcons -> Para cambiar los iconos de la barra lateral
+- Error Lens -> Esta extensión te dice los errores que tienes en la misma línea de código.
+- GitHub Copilot -> Esta extensión la tendrás instalada si tienes la descargada VSCode. Es un AI que te  
+  ayuda cuando estás programando, te da ideas, etc...
+- CodeSnap -> Hace capturas de código
